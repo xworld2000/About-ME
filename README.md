@@ -8,3 +8,12 @@ Everything from exploring ancient ruins in Greece, Italy, and Mexico to jumping 
 Music creation and the gratification it brings when people enjoy it.
 Remodeling homes (kitchens, baths, basements).
 Helping people in general.
+
+""Profiles" links
+
+https://www.linkedin.com/in/xavier-cody-5a7803146/
+https://www.facebook.com/xavier.cody.739
+
+"Technical Skills" list
+
+Java, Javascript, Object Oriented Programming
